@@ -1,9 +1,4 @@
-# Portfólio Repository
-
-## Introdução
-Este é um repositório com o meu portfólio. Contém projetos que eu realizei
-e que estou a realizar. Contém também uma breve descrição sobre mim bem como 
-o meu curriculo.
+# Portfolio Repository
 
 ## Introduction
 This is a repository with my portfolio. It contains the projects that I have
